@@ -1,6 +1,0 @@
-# Local credentials and temporary utilities
-reset_admin_password.php
-test_db.php
-*.sql
-.DS_Store
-.vscode/
